@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Sample 44</folder>
+	<filename>44_04_40x(3).jpg</filename>
+	<path>C:\Users\NASH\Downloads\Nash\Nash\Sample 44\44_04_40x(3).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>586</width>
+		<height>518</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>microplastic</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>157</xmin>
+			<ymin>172</ymin>
+			<xmax>464</xmax>
+			<ymax>407</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>microplastic</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>455</xmin>
+			<ymin>261</ymin>
+			<xmax>586</xmax>
+			<ymax>332</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Sample 6_Done - Converted</folder>
+	<filename>01_10_100x.jpg</filename>
+	<path>C:\Users\carlo\Downloads\Thesis labeling\Carlo\Sample 6_Done - Converted\01_10_100x.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2565</width>
+		<height>2565</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>microplastic</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1135</xmin>
+			<ymin>860</ymin>
+			<xmax>1954</xmax>
+			<ymax>1985</ymax>
+		</bndbox>
+	</object>
+</annotation>

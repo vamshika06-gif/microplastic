@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Sample 5</folder>
+	<filename>5_22_40x.jpg</filename>
+	<path>C:\Users\carlo\Downloads\Thesis labeling\Carlo\Sample 5\5_22_40x.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>57</width>
+		<height>30</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>microplastic</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>1</ymin>
+			<xmax>49</xmax>
+			<ymax>27</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>microplastic</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>22</ymin>
+			<xmax>18</xmax>
+			<ymax>30</ymax>
+		</bndbox>
+	</object>
+</annotation>

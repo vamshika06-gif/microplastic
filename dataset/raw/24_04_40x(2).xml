@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Sample 24</folder>
+	<filename>24_04_40x(2).jpg</filename>
+	<path>C:\Users\khazi\Downloads\Kyle\Kyle\Sample 24\24_04_40x(2).png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>911</width>
+		<height>911</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>microplastic</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>214</xmin>
+			<ymin>329</ymin>
+			<xmax>603</xmax>
+			<ymax>635</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>microplastic</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>742</xmin>
+			<ymin>458</ymin>
+			<xmax>911</xmax>
+			<ymax>697</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Sample 49</folder>
+	<filename>49_03_40x(5).jpg</filename>
+	<path>C:\Users\MY PC\Downloads\Nathan\Nathan\Sample 49\49_03_40x(5).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>652</width>
+		<height>652</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>microplastic</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>376</xmin>
+			<ymin>103</ymin>
+			<xmax>606</xmax>
+			<ymax>402</ymax>
+		</bndbox>
+	</object>
+</annotation>

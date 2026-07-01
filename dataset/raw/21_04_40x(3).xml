@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Sample 21</folder>
+	<filename>21_04_40x(3).jpg</filename>
+	<path>C:\Users\khazi\Downloads\Kyle\Kyle\Sample 21\21_04_40x(3).PNG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>333</width>
+		<height>333</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>microplastic</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>283</xmin>
+			<ymin>23</ymin>
+			<xmax>333</xmax>
+			<ymax>90</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>microplastic</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>132</xmin>
+			<ymin>130</ymin>
+			<xmax>185</xmax>
+			<ymax>189</ymax>
+		</bndbox>
+	</object>
+</annotation>

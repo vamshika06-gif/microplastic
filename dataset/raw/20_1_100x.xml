@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Sample 20_Done</folder>
+	<filename>20_1_100x.jpg</filename>
+	<path>C:\Users\khazi\Downloads\Kyle\Kyle\Sample 20_Done\20_1_100x.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>377</width>
+		<height>310</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>microplastic</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>13</xmin>
+			<ymin>41</ymin>
+			<xmax>314</xmax>
+			<ymax>293</ymax>
+		</bndbox>
+	</object>
+</annotation>

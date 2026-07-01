@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Sample 23</folder>
+	<filename>23_5_40x(2).jpg</filename>
+	<path>C:\Users\khazi\Downloads\Kyle\Kyle\Sample 23\23_5_40x(2).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>568</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>microplastic</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>169</xmin>
+			<ymin>143</ymin>
+			<xmax>592</xmax>
+			<ymax>419</ymax>
+		</bndbox>
+	</object>
+</annotation>

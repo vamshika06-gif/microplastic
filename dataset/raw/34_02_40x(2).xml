@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Sample 34</folder>
+	<filename>34_02_40x(2).jpg</filename>
+	<path>C:\Users\Lourdene\Downloads\Lourd\Sample 34\34_02_40x(2).png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>183</width>
+		<height>216</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>microplastic</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>74</xmin>
+			<ymin>95</ymin>
+			<xmax>105</xmax>
+			<ymax>112</ymax>
+		</bndbox>
+	</object>
+</annotation>

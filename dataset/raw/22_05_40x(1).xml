@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Sample 22_Done</folder>
+	<filename>22_05_40x(1).jpg</filename>
+	<path>C:\Users\khazi\Downloads\Kyle\Kyle\Sample 22_Done\22_05_40x(1).png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>263</width>
+		<height>228</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>microplastic</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>99</xmin>
+			<ymin>82</ymin>
+			<xmax>172</xmax>
+			<ymax>151</ymax>
+		</bndbox>
+	</object>
+</annotation>

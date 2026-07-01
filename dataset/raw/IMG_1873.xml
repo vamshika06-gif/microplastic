@@ -1,0 +1,26 @@
+<annotation>
+	<folder>negative control</folder>
+	<filename>IMG_1873.jpg</filename>
+	<path>C:\Users\MY PC\Downloads\negative control\IMG_1873.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>not_microplastic</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2469</xmin>
+			<ymin>1447</ymin>
+			<xmax>2732</xmax>
+			<ymax>1665</ymax>
+		</bndbox>
+	</object>
+</annotation>

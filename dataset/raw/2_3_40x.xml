@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Sample 2_Done</folder>
+	<filename>2_3_40x.jpg</filename>
+	<path>C:\Users\carlo\Downloads\Thesis labeling\Carlo\Sample 2_Done\2_3_40x.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2800</width>
+		<height>2944</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>microplastic</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>46</xmin>
+			<ymin>417</ymin>
+			<xmax>1975</xmax>
+			<ymax>2665</ymax>
+		</bndbox>
+	</object>
+</annotation>

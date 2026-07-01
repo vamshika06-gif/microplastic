@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Sample 4(No Circle)</folder>
+	<filename>4_16_100X.jpg</filename>
+	<path>C:\Users\carlo\Downloads\Thesis labeling\Carlo\Sample 4(No Circle)\4_16_100X.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>156</width>
+		<height>116</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>microplastic</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>49</ymin>
+			<xmax>143</xmax>
+			<ymax>89</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>microplastic</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>80</xmin>
+			<ymin>26</ymin>
+			<xmax>118</xmax>
+			<ymax>65</ymax>
+		</bndbox>
+	</object>
+</annotation>

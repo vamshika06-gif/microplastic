@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Sample 48_Done</folder>
+	<filename>48_2_40x(7).jpg</filename>
+	<path>C:\Users\NASH\Downloads\Nash\Nash\Sample 48_Done\48_2_40x(7).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>948</width>
+		<height>948</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>microplastic</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>46</xmin>
+			<ymin>75</ymin>
+			<xmax>927</xmax>
+			<ymax>911</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>microplastic</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>678</xmin>
+			<ymin>53</ymin>
+			<xmax>891</xmax>
+			<ymax>277</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,50 @@
+<annotation>
+	<folder>negative control</folder>
+	<filename>IMG_1850.jpg</filename>
+	<path>C:\Users\MY PC\Downloads\negative control\IMG_1850.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>not_microplastic</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1618</xmin>
+			<ymin>1368</ymin>
+			<xmax>1766</xmax>
+			<ymax>1475</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>not_microplastic</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2408</xmin>
+			<ymin>410</ymin>
+			<xmax>3143</xmax>
+			<ymax>1589</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>not_microplastic</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2132</xmin>
+			<ymin>654</ymin>
+			<xmax>2215</xmax>
+			<ymax>730</ymax>
+		</bndbox>
+	</object>
+</annotation>

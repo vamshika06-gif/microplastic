@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Sample 3_Done</folder>
+	<filename>S3(5)F340x(40x).jpg</filename>
+	<path>C:\Users\carlo\Downloads\Thesis labeling\Carlo\Sample 3_Done\S3(5)F340x(40x).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>microplastic</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1198</xmin>
+			<ymin>731</ymin>
+			<xmax>2582</xmax>
+			<ymax>2089</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>microplastic</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>469</xmin>
+			<ymin>1360</ymin>
+			<xmax>643</xmax>
+			<ymax>1689</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>microplastic</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2762</xmin>
+			<ymin>2354</ymin>
+			<xmax>2859</xmax>
+			<ymax>2464</ymax>
+		</bndbox>
+	</object>
+</annotation>

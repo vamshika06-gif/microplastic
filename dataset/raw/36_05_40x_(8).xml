@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Sample 36_Done</folder>
+	<filename>36_05_40x_(8).jpg</filename>
+	<path>C:\Users\Lourdene\Downloads\Lourd\Sample 36_Done\36_05_40x_(8).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>804</width>
+		<height>804</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>microplastic</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>199</xmin>
+			<ymin>272</ymin>
+			<xmax>553</xmax>
+			<ymax>513</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>microplastic</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1</ymin>
+			<xmax>231</xmax>
+			<ymax>205</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>microplastic</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>94</xmin>
+			<ymin>755</ymin>
+			<xmax>188</xmax>
+			<ymax>804</ymax>
+		</bndbox>
+	</object>
+</annotation>
